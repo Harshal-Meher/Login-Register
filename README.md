@@ -1,3 +1,12 @@
+![image](https://github.com/user-attachments/assets/a76a636f-5ea0-46d2-b844-0cc1f8decf93)
+
+![image](https://github.com/user-attachments/assets/4a07cc46-bd5f-49b7-b0c6-dcde8c2ae4d8)
+
+![image](https://github.com/user-attachments/assets/c3437638-fa07-4017-810b-0927e2a84b1f)
+
+![image](https://github.com/user-attachments/assets/6f7077b8-f87d-4efe-b5b0-56d845704eab)
+
+
 # LoginUser
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
